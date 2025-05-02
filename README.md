@@ -2,6 +2,8 @@
 
 Welcome to the **Virtual Art Gallery**, a beautifully crafted web app that brings the world of classical and modern art to your screen. Designed for students and educators, this gallery showcases iconic artworks from history with engaging visuals and interactive features.
 
+🔗 **Live Demo:** [virtual-art-gallery-sigma.vercel.app](https://virtual-art-gallery-sigma.vercel.app/)
+
 ---
 
 ## 🌟 Features
